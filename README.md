@@ -1,6 +1,6 @@
 # UFO
 ### Overview of the analysis:
-- The point of this project was to further narrow downn search results for UFO sightings. The original html
+The point of this project was to further narrow downn search results for UFO sightings. The original html
 document only allowed us to search sightings by the date which was limiting and didn't allow us to get more specific. We can now search by 
 5 different categories to give us more detailed results from the search menu. We made this happen with the 
 li code in our index.html file. This piece of code allowed us to create additional search boxes and add them to the "Filter Search" Menu. From there
