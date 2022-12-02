@@ -5,7 +5,6 @@ document only allowed us to search sightings by the date which was limiting and 
 5 different categories to give us more detailed results from the search menu. We made this happen with the 
 <li code in our index.html file. This piece of code allowed us to create additional search boxes and add them to the "Filter Search" Menu. From there
 we were instructed to delete the "Filter Table" button. With the button gone we needed additional code to perform a search based on the input that would return results based on the updated filters. That code was (d3.selectAll("input").on("change", updateFilters);)
-
 - You perform searches by simply entering which information you want returned to you with the range. For example if we wanted all the UFO sightings
 that took place on the date of 1/1/2010 we would enter this date into the "Enter a Date" search bar.
 ![FEF80C30-7025-4513-8CAD-3ED4700D0433_4_5005_c](https://user-images.githubusercontent.com/112785655/205192166-0f833d68-01e1-4d6a-b0c1-7a7e1f626f74.jpeg)
