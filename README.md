@@ -8,9 +8,12 @@ we were instructed to delete the "Filter Table" button. With the button gone we 
 
 There is a description of how to perform a search, with images. (4 pt)
 You perform searches by simply entering which information you want returned to you with the range. For example if we wanted all the UFO sightings
-that took place on the date of 1/1/2010 we would enter this date into the "Enter a Date" search bar. 
+that took place on the date of 1/1/2010 we would enter this date into the "Enter a Date" search bar.
+
 ![FEF80C30-7025-4513-8CAD-3ED4700D0433_4_5005_c](https://user-images.githubusercontent.com/112785655/205192166-0f833d68-01e1-4d6a-b0c1-7a7e1f626f74.jpeg)
+
 Once this is complete we will get every result from 1/1/2010 from there we can further condense our search by entering a city name. Lets say we wanted to see all results from spring valley. We would then enter "spring valley" into the "Enter a city" search bar. With the information entered we can see that the only UFO sighting in spring valley on date 1/1/2010 took 10 minutes long. 
+
 ![7C1A75FC-6412-4D2A-B100-DD344FAD990F](https://user-images.githubusercontent.com/112785655/205192684-3bdc209c-f9f0-4b37-bd6a-5c1eeeb9b36a.jpeg)
 
 
