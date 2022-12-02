@@ -8,7 +8,7 @@ we were instructed to delete the "Filter Table" button. With the button gone we 
 
 
 ## Results:
-You perform searches by simply entering which information you want returned to you with the range. For example if we wanted all the UFO sightings
+You perform searches by simply entering which information you want returned within the range. Meaning if we search for something thats not within the search range we will get a null result. If we wanted all the UFO sightings
 that took place on the date of 1/1/2010 we would enter this date into the "Enter a Date" search bar.
 ![FEF80C30-7025-4513-8CAD-3ED4700D0433_4_5005_c](https://user-images.githubusercontent.com/112785655/205192166-0f833d68-01e1-4d6a-b0c1-7a7e1f626f74.jpeg)
 
