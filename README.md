@@ -21,3 +21,7 @@ Once this is complete we will get every result from 1/1/2010 from there we can f
 A drawback of the webpage is that you can't search the duration of the UFO sighting. If the dataset was larger we would likely need this option to further condense our searches. This will likely increase the amount of time it takes the user to find the information they are looking for. Our goal with this
 website is to make searches as easy as possible so they user saves time.
 My first reccomendation would be to add "Enter a duration" to the menu so users can further identify which results they are looking for. 
+
+My second reccomendation would be to specify where the "Clear Search Results" button is located. 
+![4F5AE287-54E9-4012-BB01-F5DF6841ED06](https://user-images.githubusercontent.com/112785655/205194067-e0078ee7-b1a2-4a35-8fb5-35f4dbbe6c33.jpeg)
+As we can see its in the top left corner and says "UFO Sightings". As the creator we know what the purpose of it is but the user may have a difficult time understanding its function and will probably not attempt to utilize it. It would be a good idea to either outline it or specify what the purpose of it is with a small text. 
